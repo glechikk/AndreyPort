@@ -1,0 +1,13 @@
+.container{
+    width: 1000px;
+    min-height: 100px;
+    background-color: grey;
+    margin: 0 auto;
+}
+.flex-row{
+    display: flex;
+    margin-top: 10px;
+}
+.column{
+    width: 500px;
+}
