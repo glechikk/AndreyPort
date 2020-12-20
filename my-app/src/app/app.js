@@ -7,8 +7,8 @@ import './app.css';
 
 const App=()=>{
   const usersData = [
-      {id:1 , name:'Adnrey', username:'guchiflipflap'},
-      {id:2 , name:'Ivan', username:'activniyglinomes'},
+      {id:1 , name:'Adnrey', username:'Andrey2003'},
+      {id:2 , name:'Ivan', username:'Ivan2003'},
   ]
 
   const [users, setUsers] = useState(usersData)
